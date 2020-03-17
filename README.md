@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/22601). 
+
 # ANAVI Infrared pHAT
 
 ANAVI Infrared pHAT is an open source hardware Raspberry Pi pHAT (add-on board) for rapid prototyping of Internet of Things (IoT) powered by free and open source software. It features:
